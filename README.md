@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployed URL
+https://victorious-pebble-0bf6fea10.3.azurestaticapps.net/
+
 ## Available Scripts
 
 In the project directory, you can run:
